@@ -1,0 +1,8 @@
+<resources>
+    <string name="camera">Câmera</string>
+    <string name="gallery">Galeria</string>
+    <string name="choose">Selecione</string>
+    <string name="cancel">Cancelar</string>
+    <string name="loading">A carregar...</string>
+    <string name="no_providers">Não existe opções disponíves.</string>
+</resources>
